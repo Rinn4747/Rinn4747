@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rinn4747
-- 👀 I’m not a Lua Dev, or even software dev.
+- 👀 I’m not a Lua Dev, or even software dev. so cause and effect / gui and process are somewhat unfamiliar to me
 - 🌱 so expect syntax error, bad formatting and spaghetti code
 - 💞️ I’m looking to collaborate on : undecided
 - 📫 How to reach me : discord i guess
